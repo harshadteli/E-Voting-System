@@ -2,6 +2,12 @@
 
 [![Banner](https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?auto=format&fit=crop&q=80&w=1200&h=400)]()
 
+<div align="center">
+  <a href="https://evoting.page.gd">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+  </a>
+</div>
+
 ## 🌟 Overview
 Experience a new standard in digital democracy. This **E-Voting System** is a robust, secure, and visually stunning web application designed to handle modern election requirements with ease. Built with **PHP, MySQL, and Vanilla CSS/JS**, it features a unique **Glassmorphsim UI** that provides a premium, high-tech user experience.
 
